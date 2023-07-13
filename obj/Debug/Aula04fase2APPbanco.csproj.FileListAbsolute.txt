@@ -1,0 +1,10 @@
+C:\Users\eduardo.lfuzato\source\repos\Aula04fase2APPbanco\Aula04fase2APPbanco\bin\Debug\Aula04fase2APPbanco.exe.config
+C:\Users\eduardo.lfuzato\source\repos\Aula04fase2APPbanco\Aula04fase2APPbanco\bin\Debug\Aula04fase2APPbanco.exe
+C:\Users\eduardo.lfuzato\source\repos\Aula04fase2APPbanco\Aula04fase2APPbanco\bin\Debug\Aula04fase2APPbanco.pdb
+C:\Users\eduardo.lfuzato\source\repos\Aula04fase2APPbanco\Aula04fase2APPbanco\obj\Debug\Aula04fase2APPbanco.csproj.AssemblyReference.cache
+C:\Users\eduardo.lfuzato\source\repos\Aula04fase2APPbanco\Aula04fase2APPbanco\obj\Debug\Aula04fase2APPbanco.Properties.Resources.resources
+C:\Users\eduardo.lfuzato\source\repos\Aula04fase2APPbanco\Aula04fase2APPbanco\obj\Debug\Aula04fase2APPbanco.csproj.GenerateResource.cache
+C:\Users\eduardo.lfuzato\source\repos\Aula04fase2APPbanco\Aula04fase2APPbanco\obj\Debug\Aula04fase2APPbanco.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.lfuzato\source\repos\Aula04fase2APPbanco\Aula04fase2APPbanco\obj\Debug\Aula04fase2APPbanco.exe
+C:\Users\eduardo.lfuzato\source\repos\Aula04fase2APPbanco\Aula04fase2APPbanco\obj\Debug\Aula04fase2APPbanco.pdb
+C:\Users\eduardo.lfuzato\source\repos\Aula04fase2APPbanco\Aula04fase2APPbanco\obj\Debug\Aula04fase2APPbanco.Form1.resources
